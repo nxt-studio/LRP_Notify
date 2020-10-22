@@ -3,13 +3,14 @@
 
 How use.
 
-[Notify 1](https://i.imgur.com/YL5p0Fo.png)
+![Notify 1](https://i.imgur.com/YL5p0Fo.png)
+
 ``
 exports['LRP_Notify']:DisplayNotification(message, time)
 ``
 
 
-[Notify 2](https://i.imgur.com/AAMq5II.png)
+![Notify 2](https://i.imgur.com/AAMq5II.png)
 
 ```
     exports['LRP_Notify']:DisplayLeftNotification(title,
