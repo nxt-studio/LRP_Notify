@@ -3,16 +3,16 @@
 
 How use.
 
-(https://i.imgur.com/YL5p0Fo.png)[Notify 1]
+[Notify 1](https://i.imgur.com/YL5p0Fo.png)
 ``
 exports['LRP_Notify']:DisplayNotification(message, time)
 ``
 
 
-(https://i.imgur.com/AAMq5II.png)[Notify 2]
+[Notify 2](https://i.imgur.com/AAMq5II.png)
 
 ```
-exports['LRP_Notify']:DisplayLeftNotification(title,
+    exports['LRP_Notify']:DisplayLeftNotification(title,
 		message,
 		'HUD_TOASTS',
 		'toast_horse_bond',
