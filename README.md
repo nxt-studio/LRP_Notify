@@ -1,15 +1,22 @@
 # LRP_Notify
 
 
-How use. ``exports['LRP_Notify']:DisplayNotification(message, time)``
+How use.
+
+(https://i.imgur.com/YL5p0Fo.png)[Notify 1]
+``
+exports['LRP_Notify']:DisplayNotification(message, time)
+``
 
 
+(https://i.imgur.com/AAMq5II.png)[Notify 2]
 
-``` exports['LRP_Notify']:DisplayLeftNotification(title,
+```
+exports['LRP_Notify']:DisplayLeftNotification(title,
 		message,
 		'HUD_TOASTS',
 		'toast_horse_bond',
-		time)
+		10000)
     
     exports['LRP_Notify']:DisplayLeftNotification(title,
 		mensagem,
