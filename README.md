@@ -4,7 +4,8 @@
 How to use.
 
 
-**Model 01:**
+**Model 01:** 
+
 ![Notify 1](https://i.imgur.com/YL5p0Fo.png)
 
 ``
@@ -12,6 +13,7 @@ exports['LRP_Notify']:DisplayNotification(message, time)
 ``
 
 **Model 02:**
+
 ![Notify 2](https://i.imgur.com/AAMq5II.png)
 
 ```
